@@ -1,0 +1,30 @@
+{
+  "name": "chimney-swift-client-master",
+  "version": "1.0.0",
+  "description": "website for Chimney Swift contra band",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielJRaine/chimney-swift-client.git"
+  },
+  "keywords": [
+    "chimney",
+    "swift",
+    "contra",
+    "band",
+    "trad"
+  ],
+  "author": "daniel j ley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielJRaine/chimney-swift-client/issues"
+  },
+  "homepage": "https://github.com/DanielJRaine/chimney-swift-client#readme"
+}
